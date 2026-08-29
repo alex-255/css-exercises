@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 20px solid red;
+  margin: 30px;
+}
